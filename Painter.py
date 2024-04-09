@@ -1,3 +1,5 @@
+# This is a painter project.
+# You can use this to draw, explain, etc.
 import turtle
 
 # setting the window
