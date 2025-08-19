@@ -1,2 +1,2 @@
-# Py-Projects
-Here you can find all my python projects in the scope of software engineering.
+# Painter App
+A Painter App (like the one on Windows) using Turtle library in Python. It involves a fixed palette of various colors, line thickness control buttons, eraser, and a button to clear the whole page.
